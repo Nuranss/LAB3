@@ -9,14 +9,14 @@ Bu lahiyə .env faylı daxilində verilmiş istifadəçi məlumatlarına görə 
    ```
 Məsələn:
 ```bash
-   NAME=Rəvan
-   PASSWORD=rəvan25
+   NAME=Nuran
+   PASSWORD=Nuran123
    ```
 
 ## Quraşdırma təlimatları
 1. **GitHub-dan layihəni klonlayın:**
    ```bash
-   git clone https://github.com/revan-aliyev/Attendance-Automation.git
+   git clone https://github.com/Nuranss/LAB3.git   
    ```
 
 2. **Virtual mühitin yaradılması:**
@@ -45,11 +45,11 @@ Məsələn:
 5. **Proqramı işə salın:**
    Layihəni işə salmaq üçün aşağıdakı əmri daxil edin:
    ```bash
-   python koica.py
+   python main.py
    ```
 
 ## Nəticə
 Nəticədə istifadəçinin davamiyyət məlumatlarından müvafiq tarixlərə uyğun olaraq cədvəl hazırlayır
 
 ## Əlaqə:
-Əgər hər hansı bir sualınız varsa, mənimlə əlaqə saxlaya bilərsiniz: aliyevrevan023@gmail.com
+Əgər hər hansı bir sualınız varsa, mənimlə əlaqə saxlaya bilərsiniz: nuransgrov@gmail.com
